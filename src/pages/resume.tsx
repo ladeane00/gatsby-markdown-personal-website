@@ -5,6 +5,12 @@ import SEO from 'components/SEO';
 import Experience from 'components/Experience';
 import Education from 'components/Education';
 import Skills from 'components/Skills';
+import Languages from 'components/Languages';
+import Interests from 'components/Interests';
+import Awards from 'components/Awards';
+import Activities from 'components/Activities';
+import Certifications from 'components/Certifications';
+
 
 const ResumePage: React.FC = () => (
   <Layout>
@@ -13,7 +19,19 @@ const ResumePage: React.FC = () => (
     <hr />
     <Education />
     <hr />
+    <Activities />
+    <hr />
     <Skills />
+    <hr />
+    <Certifications />
+    <hr />
+    <Interests />
+    <hr />
+    <Awards />
+    <hr />
+    <Languages />
+    <hr />
+    <Interests />
   </Layout>
 );
 

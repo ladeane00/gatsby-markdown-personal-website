@@ -7,11 +7,11 @@ const Timeline = ({ title, subtitle, content, startDate, endDate }) => (
   <Styled.Timeline>
     <Styled.Point />
     <Styled.Details>
+      <Styled.Title>{title}</Styled.Title>
+      <Styled.Subtitle>{subtitle}</Styled.Subtitle>
       <Styled.Date>
         {startDate} - {endDate}
       </Styled.Date>
-      <Styled.Title>{title}</Styled.Title>
-      <Styled.Subtitle>{subtitle}</Styled.Subtitle>
     </Styled.Details>
     <Styled.Content>{content}</Styled.Content>
   </Styled.Timeline>

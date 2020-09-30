@@ -18,7 +18,7 @@ const BlogPost = ({ data, pageContext }) => {
     <Layout>
       <SEO title={post.frontmatter.title} />
       <Container section>
-        <TitleSection title={post.frontmatter.date} subtitle={post.frontmatter.title} />
+        <TitleSection title={post.frontmatter.date} subtitle={post.frontmatter.title}/>
         <FormatHtml content={post.html} />
         <Styled.Links>
           <span>

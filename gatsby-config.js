@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby.JS`,
-    description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    title: `Lucas Deane`,
+    description: `My Personal Website`,
+    author: `Lucas Deane`
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -25,10 +25,10 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+        
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 768,
               linkImagesToOriginal: false
             }
           }

@@ -1,9 +1,11 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+position: '  Jesuit Robotics Team Head Programmer'
+company: 'Jesuit High School of New Orleans'
+startDate: 'August 2017'
+endDate: 'May 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+• Developed programs for android phones in Android Studio to autonomously control a robot
+<br />
+• Fostered leadership skills in regard to managing the programming operations of a team

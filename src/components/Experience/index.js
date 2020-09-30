@@ -24,8 +24,8 @@ const Experience = () => {
             id
             html
             frontmatter {
-              company
               position
+              company
               startDate
               endDate
             }
@@ -46,14 +46,14 @@ const Experience = () => {
         const {
           id,
           html,
-          frontmatter: { company, position, startDate, endDate }
+          frontmatter: { position, company, startDate, endDate }
         } = item.node;
 
         return (
           <Timeline
             key={id}
-            title={company}
-            subtitle={position}
+            title={position}
+            subtitle={company}
             content={<FormatHtml content={html} />}
             startDate={startDate}
             endDate={endDate}

@@ -1,11 +1,14 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+position: 'Programming Assistant to 
+Director of Student Council'
+company: 'Jesuit High School of New Orleans'
+startDate: 'August 2018'
+endDate: 'May 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+• Developed an IOS application to assist the student council with student lunches
+<br />
+• Application records data and processes students through with the lunches they ordered
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+

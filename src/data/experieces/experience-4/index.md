@@ -1,9 +1,11 @@
 ---
 category: 'experiences'
-company: 'Netlify'
-position: 'Senior Frontend Developer'
-startDate: 'Jun 2015'
-endDate: 'Jan 2018'
+position: 'Classroom Support Technologist'
+company: 'Villanova University'
+startDate: 'Mar 2020'
+endDate: 'Present'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+• Upgrade and maintain digital and analog classroom equipment and computer database software
+<br />
+• Troubleshoot hardware and software problems in classroom equipment
